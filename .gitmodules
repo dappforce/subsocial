@@ -1,15 +1,15 @@
 [submodule "Runtime"]
-	path = dappforce-subsocial-runtime
+	path = Runtime
 	url = https://github.com/dappforce/dappforce-subsocial-runtime
 [submodule "Node"]
-	path = dappforce-subsocial-node
+	path = Node
 	url = https://github.com/dappforce/dappforce-subsocial-node
 [submodule "Off-chain storage"]
-	path = dappforce-subsocial-offchain
+	path = Off-chain storage
 	url = https://github.com/dappforce/dappforce-subsocial-offchain
 [submodule "Web UI"]
-	path = dappforce-subsocial-ui
+	path = Web UI
 	url = https://github.com/dappforce/dappforce-subsocial-ui
 [submodule "Docker"]
-	path = dappforce-subsocial-starter
+	path = Docker
 	url = https://github.com/dappforce/dappforce-subsocial-starter
