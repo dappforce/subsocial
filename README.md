@@ -13,7 +13,7 @@ Subsocial consists of several repositories:
 - [Runtime](https://github.com/dappforce/dappforce-subsocial-runtime) - Substrate module. The main blockchain logic of Subsocial is here. It can be used with other Substrate-based blockchains.
 - [Node](https://github.com/dappforce/dappforce-subsocial-node) - Substrate-based blockchain node. This repo assembles all Substrate modules required to launch Subsocial as a standalone blockchain.
 - [Off-chain storage](https://github.com/dappforce/dappforce-subsocial-offchain) - Saves text data of blogs, posts and comments to IPFS. Builds user feeds and notifications in Postgres. Supports full text search by indexing text data into ElasticSeach database.
-- [Web UI](https://github.com/dappforce/dappforce-subsocial-ui) - Mobile friendly web UI for Subsocial blockchain. Built with TypeScript, React, And Design components.
+- [Web UI](https://github.com/dappforce/dappforce-subsocial-ui) - Mobile friendly web UI for Subsocial blockchain. Built with TypeScript, React, Polkadot API libs and Ant Design components.
 - [Docker](https://github.com/dappforce/dappforce-subsocial-starter) - Start all parts of Subsocial in Docker containers with a single script. This will deploy Subsocial blockchain, offchain storage and web UI.
 
 ## Demo
