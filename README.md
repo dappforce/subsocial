@@ -6,6 +6,12 @@ Features: blogs, posts, comments, upvotes/downvotes, reputation, user feed and n
 
 Try it: [Subsocial.Network](http://subsocial.network/)
 
+## Supported by Web3 Foundation
+
+<img src="./w3f-badge.svg" width="100%" height="200" alt="Web3 Foundation grants badge" />
+
+Subsocial is a recipient of the technical grant from Web3 Foundation. We have successfully delivered all three milestones described in Subsocial's grant application. [Official announcement](https://medium.com/web3foundation/web3-foundation-grants-wave-3-recipients-6426e77f1230).
+
 ## Repositories
 
 Subsocial consists of several repositories:
