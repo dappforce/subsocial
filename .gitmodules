@@ -22,3 +22,7 @@
 	path = faucet
 	url = https://github.com/dappforce/dappforce-subsocial-faucet-bot
 	branch = master
+[submodule "Explorer"]
+	path = explorer
+	url = https://github.com/dappforce/dappforce-subsocial-apps
+	branch = master
